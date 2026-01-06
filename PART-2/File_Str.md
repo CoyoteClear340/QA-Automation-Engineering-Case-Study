@@ -12,7 +12,10 @@ utils/ → for helpers
 
 Reports/screenshots/logs (auto-generated)
 
-[https://testomat.io/blog/page-object-model-pattern-javascript-with-playwright/](https://testomat.io/blog/page-object-model-pattern-javascript-with-playwright/)**2\. Missing Information**
+![POM](https://testomat.io/wp-content/webp-express/webp-images/uploads/2023/10/Page_Object_Model_structure.png.webp)
+
+
+**2\. Missing Information**
 
 ### Test Data
 
