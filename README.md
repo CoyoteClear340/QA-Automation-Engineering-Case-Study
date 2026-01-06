@@ -1,5 +1,4 @@
 
-=======
 # QA Automation Case Study – B2B SaaS Platform (WorkflowPro)
 
 This repository contains my solution for a QA Automation case study.  
@@ -17,9 +16,12 @@ The goal of the assignment was to design tests that validate quality across API,
 ## 📂 Repository Structure
 
 PART-1/ Debugging flaky tests and root-cause analysis
+
 PART-2/ Framework and design discussion
+
 PART-3/ Integration test with API + UI + Mobile
 tests/ Automation scripts
+
 README.md This file
 
 
