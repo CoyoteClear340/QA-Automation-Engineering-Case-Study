@@ -43,4 +43,3 @@ Discussion around automation framework structure, configuration, environments, r
 
 Main test file:
 
->>>>>>> b9e2485 (Initial QA Automation Case Study project)
