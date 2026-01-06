@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 =======
 # QA Automation Case Study – B2B SaaS Platform (WorkflowPro)
 
